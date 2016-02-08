@@ -1,3 +1,9 @@
+/* Pracica 1 de Arquitectura de sistemas de información.
+Autor: Xabier Sinde
+Colaboradores: Igor Aresti, Oscar Pardo y Andoni Obregón
+Agradecimientos: Ivan Montañez */
+
+
 #include <stdio_ext.h>
 #include <stdlib.h>
 #include <unistd.h>
